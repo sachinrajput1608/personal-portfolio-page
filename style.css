@@ -8,6 +8,7 @@ html, body {
     padding: 0;
     overflow-x: hidden; 
 }
+<link href="style.css" type="text/css" rel="stylesheet">
 .navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus, .navbar-inverse .navbar-nav>.active>a:hover {
   background-color: #ed5565;
 }
@@ -45,6 +46,30 @@ a:hover {
   padding-bottom: 40px;
   padding-top:40px;
 }
+.profileBody {
+    display: inline-block;
+    background-color: white;
+    margin-top: 6px;
+    margin-left: 55px;
+    width: 75%;
+    height: 590px;
+}
+h1 {color:red;}
+p {color:blue;}
+<div class="myDiv">
+<h1>sachin kumar</h1> 
+<h2>engineeer</h2>
+  <p>love to learn.</p>
+</div>
+
+	<hr />
+	<p>love to learn</p>
+	<strong>Profile</strong>
+<hr />
+<strong>Goal</strong>
+<ul>work with google</ul>
+	
+  
 .ex-timeline {
   background:url("https://webdevtrick.com/wp-content/uploads/black-background.jpg");
   background-size: cover;
@@ -443,3 +468,4 @@ footer {
     font-size: 5.5vw;
   }
 }
+
