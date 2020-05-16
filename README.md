@@ -6,7 +6,7 @@ index.html
 <head>
   <title>personal potfolio page</title>
 <link href="style.css" type="text/css" rel="stylesheet">
-  <stlye>
+  <style>
     .profileBody {
     display: inline-block;
     background-color: white;
@@ -28,7 +28,7 @@ index.html
   <li>bussinessmen</li>
 </ul>
   <hr>
-  <p><strong><a href="sachinrajput1608@gmail.com">Its my email</a></strong></p>
+  <p><strong><a href="sachinrajput1608@gmail.com"></a>Its my email</strong></p>
 
   </head>
 <body>
