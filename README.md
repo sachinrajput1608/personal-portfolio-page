@@ -8,7 +8,15 @@ index.html
 <link href="style.css" type="text/css" rel="stylesheet">
  
   <hr>
-  <p>love to learn</p>
+
+
+  </head>
+<body>
+  <div class="ProfileBody">
+    <h1>Sachin kumar</h1>
+    <h2>engineer</h2>
+  </div>
+    <p>love to learn</p>
   <strong>profile</strong>
   <hr>
   <p> <strong>goal</strong>
@@ -20,12 +28,6 @@ index.html
 </ul>
   <hr>
   <p><strong><a href="sachinrajput1608@gmail.com"></a>Its my email</strong></p>
-
-  </head>
-<body>
-  <div class="ProfileBody">
-    <h1>Sachin kumar</h1>
-    <h2>engineer</h2>
 
 
 </body>
