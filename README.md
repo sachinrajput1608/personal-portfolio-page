@@ -6,16 +6,7 @@ index.html
 <head>
   <title>personal potfolio page</title>
 <link href="style.css" type="text/css" rel="stylesheet">
-  <style>
-    .profileBody {
-    display: inline-block;
-    background-color: white;
-    margin-top: 6px;
-    margin-left: 55px;
-    width: 75%;
-    height: 590px;
-  }
-    </style>
+ 
   <hr>
   <p>love to learn</p>
   <strong>profile</strong>
