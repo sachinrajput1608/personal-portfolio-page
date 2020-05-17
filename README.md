@@ -1,88 +1,57 @@
 # personal-portfolio-page
-personal-portfolio-page
-index.html
 <!DOCTYPE html>
-<html>
+<html class="no-js" lang="en">
+
 <head>
-  <title>personal potfolio page</title>
-<link href="style.css" type="text/css" rel="stylesheet">
- 
-  <hr>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>My Portfolio</title>
 
+    <link href="style.css" type="text/css" rel="stylesheet">
+    <style>
+        .profileBody {
+            display: inline-block;
+            background-color: blueviolet;
+            margin-top: 6px;
+            margin-left: 55px;
+            width: 75%;
+            height: 590px;
+        }
+    </style>
+</head>
 
-  </head>
 <body>
-  <div class="ProfileBody">
-    <h1>Sachin kumar</h1>
-    <h2>engineer</h2>
-  </div>
-    <p>love to learn</p>
-  <strong>profile</strong>
-  <hr>
-  <p> <strong>goal</strong>
+    <div class="profileBody">
+        <h1>Sachin Kumar</h1>
+        <h2>engineer</h2>
+    </div>
+    <hr>
+    <p>
+        BIO: love to learn good to know new thing
+        <strong>profile
+         sachin Kumar 
+         department:cse
+        </strong>
     </p>
-<ul>
-  <li>engineer</li>
-  <li>work with google</li>
-  <li>bussinessmen</li>
-</ul>
-  <hr>
-  <p><strong><a href="sachinrajput1608@gmail.com"></a>Its my email</strong></p>
+    <hr>
+    <p>
+        <strong>goal</strong>
+    </p>
+    <ul>
+        <li>work with google</li>
+        <li>to learn interesting</li>
+        <li>work for welfare</li>
+    </ul>
 
-
+    <hr>
+    <p>
+        contact no:8800764284
+        <strong>email id:sachinrajput1608@gmail.com
+        <strong><a href="https://mail.google.com">sachinrajput1608@gmail.com</a></strong>
+        </strong>
+    </p>
+    <a></a>
 </body>
+
 </html>
-
-style.css
-* {
-    font-family: Helvetica, Arial, sans-serif;
-    max-width: 700px;
-    margin: auto;
-
-  }
-
-
-body {
-      min-width: 500px;
-      background-color: #e0eeee;
-  }
-div {
-  display: block;
-}
-
-h1 {
-color: #999999;
-font-family: arial, sans-serif;
-font-size: 16px;
-font-weight: bold;
-margin-top: 0px;
-margin-bottom: 1px;
-}
-
-h2 {
-color: #999999;
-font-family: arial, sans-serif;
-font-size: 16px;
-font-weight: bold;
-margin-top: 0px;
-margin-bottom: 1px;
-}
-p {
-  display: block;
-  margin-top: 1em;
-  margin-bottom: 1em;
-  margin-left: 0;
-  margin-right: 0;
-}
-strong {
-  font-weight: bold;
-}
-ul {
-  display: block;
-  list-style-type: disc;
-  margin-top: 1em;
-  margin-bottom: 1 em;
-  margin-left: 0;
-  margin-right: 0;
-  padding-left: 40px;
-}
