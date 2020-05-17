@@ -1,4 +1,5 @@
 # personal-portfolio-page
+## html
 <!DOCTYPE html>
 <html class="no-js" lang="en">
 
@@ -6,9 +7,11 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+ 
     <title>My Portfolio</title>
 
     <link href="style.css" type="text/css" rel="stylesheet">
+   ## profileBody 
     <style>
         .profileBody {
             display: inline-block;
@@ -55,3 +58,14 @@
 </body>
 
 </html>
+### css
+#style.css * {
+    font-family: Helvetica, Arial, sans-serif;
+    max-width: 700px;
+    margin: auto;
+}
+
+body {
+    min-width: 500px;
+    background-color: #e0eeee;
+}
