@@ -67,5 +67,5 @@
 
 body {
     min-width: 500px;
-    background-color: #e0eeee;
+    background-color: #FFFFFF;
 }
