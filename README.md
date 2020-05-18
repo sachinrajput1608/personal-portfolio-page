@@ -15,7 +15,7 @@
     <style>
         .profileBody {
             display: inline-block;
-            background-color: blueviolet;
+            background-color: white;
             margin-top: 6px;
             margin-left: 55px;
             width: 75%;
@@ -67,5 +67,5 @@
 
 body {
     min-width: 500px;
-    background-color: #FFFFFF;
+    background-color: #e0eeee;
 }
